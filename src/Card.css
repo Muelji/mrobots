@@ -1,0 +1,23 @@
+.card-container {
+    background-color: aquamarine;
+    max-width: 20rem;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.card-container h4 {
+    margin-bottom: 0.5rem;
+}
+
+.card-container p {
+    margin: 0;
+    margin-bottom: 0.5rem;
+}
+
+.card-wrapper{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
