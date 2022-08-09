@@ -30,7 +30,7 @@ class App extends React.Component {
 
     return (
       <div className="">
-        <h1 style={{ textAlign: 'center' }}>Robofriends</h1>
+        <h1 style={{ textAlign: 'center' }}>Mrobots</h1>
         <SearchBox updateSearchInput={this.updateSearchInput}/>
         <CardList clients={filteredRobots}/>
       </div>

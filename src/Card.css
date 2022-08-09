@@ -1,5 +1,5 @@
 .card-container {
-    background-color: aquamarine;
+    background-color: rgb(241, 98, 241);
     max-width: 20rem;
     margin: 1rem;
     padding: 1rem;
@@ -21,3 +21,6 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+
+h1{color:rgb(135, 22, 201)}
